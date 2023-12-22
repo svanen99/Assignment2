@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+    height: 100vh;
+    margin: 0;
+}
+
+body {
+    margin: 0;
+    font-family:monospace;
+    font-size: large;
+}
+
+header {
+    padding: 24;
+    background-color: plum;
+}
+
+h1 {
+    padding: 12px;
+    text-align: center;
+    color: darkviolet;
+
+}
